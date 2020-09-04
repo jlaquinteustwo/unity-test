@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 413
-    y: 58
+    x: 406
+    y: 51
     width: 2146
     height: 1341
   m_ShowMode: 4
@@ -93,10 +93,10 @@ MonoBehaviour:
     y: 30
     width: 2146
     height: 1291
-  m_MinSize: {x: 910, y: 442}
-  m_MaxSize: {x: 22005, y: 10021}
+  m_MinSize: {x: 911, y: 442}
+  m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 16
+  controlID: 15
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 87
+  controlID: 16
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -214,8 +214,8 @@ MonoBehaviour:
     y: 0
     width: 496
     height: 1291
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -338,8 +338,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1322
-    y: 88
+    x: 1315
+    y: 81
     width: 341
     height: 1270
   m_ViewDataDictionary: {fileID: 0}
@@ -348,7 +348,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4688ffff
+      m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -393,8 +393,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2063
-    y: 88
+    x: 2056
+    y: 81
     width: 495
     height: 1270
   m_ViewDataDictionary: {fileID: 0}
@@ -431,8 +431,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1665
-    y: 88
+    x: 1658
+    y: 81
     width: 396
     height: 1270
   m_ViewDataDictionary: {fileID: 0}
@@ -448,13 +448,12 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/ZED/Examples/Drone Shooter/Scenes
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\bruce\Projects\ps-projectlife\ProjectLife
+  m_LastProjectPath: C:\Users\bruce\Projects\unity-test\TestProj
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -489,7 +488,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff987b0000be7b0000c07b0000367e0000427e0000
+    m_ExpandedIDs: ffffffff683c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,8 +565,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 413
-    y: 947
+    x: 406
+    y: 940
     width: 908
     height: 411
   m_ViewDataDictionary: {fileID: 0}
@@ -658,8 +657,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 413
-    y: 88
+    x: 406
+    y: 81
     width: 908
     height: 838
   m_ViewDataDictionary: {fileID: 0}
@@ -725,9 +724,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 14.711094
+    m_Target: 10
     speed: 2
-    m_Value: 14.077601
+    m_Value: 14.711094
   m_Ortho:
     m_Target: 0
     speed: 2
